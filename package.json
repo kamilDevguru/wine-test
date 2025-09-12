@@ -14,7 +14,7 @@
     "gatsby-plugin-react-helmet": "^3.0.5",
     "gatsby-plugin-typography": "^2.2.0",
     "gatsby-source-contentful": "^2.0.1",
-    "gatsby-transformer-remark": "^2.1.1",
+    "gatsby-transformer-remark": "^6.15.0",
     "intl": "^1.2.5",
     "lodash": "^4.17.10",
     "react": "^16.3.1",

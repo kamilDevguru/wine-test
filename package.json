@@ -6,7 +6,7 @@
   "author": "Paul McCrodden <paul.mccrodden@x-team.com> (paulmccrodden.com)",
   "dependencies": {
     "dotenv": "^8.0.0",
-    "gatsby": "^2.0.0",
+    "gatsby": "^5.15.0",
     "gatsby-image": "^2.0.5",
     "gatsby-plugin-google-analytics": "^2.0.5",
     "gatsby-plugin-i18n": "^0.4.2",
